@@ -317,24 +317,25 @@ a {
   }
   .footer-icons {
     width: 100%;
-    padding-left: 3rem;
+    padding-left: 4.7rem;
     margin-top: 1rem;
   }
   .footer-information {
     width: 100%;
     display: flex;
     flex-direction: column;
+    padding-left: 3rem;
   }
   .footer-information a {
     letter-spacing: 0.2rem;
-    padding-left: 3rem;
+    
     border: none;
   }
   .container {
     width: 100%;
   }
   .footer-end {
-    padding-left: 2rem;
+    padding-left: 0rem;
   }
 }
 
@@ -394,7 +395,7 @@ a {
   .container {
     grid-template-columns: 1fr;
     row-gap: 0rem;
-    padding: 1rem;
+    padding: 0rem;
   }
   .grid1-img {
     margin-top: 3rem;
@@ -423,12 +424,13 @@ a {
     margin-left: 2rem;
   }
   .footer-icons {
-    padding-left: 2rem;
+    padding-left: 3rem;
   }
+  
   .footer-information a {
-    padding-left: 2rem;
+    padding-left: 0rem;
     font-size: 14px;
-    margin: 0rem;
+    margin: 1rem;
   }
 
   .footer-end {
